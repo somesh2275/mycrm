@@ -1,0 +1,13 @@
+Mon Jan 31 15:28:59 2022 [16860][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 15:29:01 2022 [16860][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 15:40:20 2022 [16860][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Tue Feb  1 12:32:00 2022 [9800][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Tue Feb  1 12:32:05 2022 [9800][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Tue Feb  1 12:34:28 2022 [9800][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Tue Feb  1 12:43:19 2022 [9800][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Tue Feb  1 12:44:01 2022 [9800][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Tue Feb  1 12:46:32 2022 [9800][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Tue Feb  1 12:47:33 2022 [9800][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Thu Feb  3 16:40:10 2022 [24460][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Wed Mar  2 15:47:58 2022 [25004][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Wed Mar  2 15:58:22 2022 [25004][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.

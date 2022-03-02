@@ -1,0 +1,60 @@
+Mon Jan 24 18:15:26 2022 [24016][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Mon Jan 24 18:15:26 2022 [24016][1][FATAL] Email address save error
+Mon Jan 24 18:15:50 2022 [24016][1][FATAL] User update error: Temp User is not retrieved at ID seed_jim_id, boolean given
+Mon Jan 24 18:15:50 2022 [24016][1][FATAL] Email address save error
+Mon Jan 24 18:15:50 2022 [24016][1][FATAL] User update error: Temp User is not retrieved at ID seed_sarah_id, boolean given
+Mon Jan 24 18:15:50 2022 [24016][1][FATAL] Email address save error
+Mon Jan 24 18:15:51 2022 [24016][1][FATAL] User update error: Temp User is not retrieved at ID seed_sally_id, boolean given
+Mon Jan 24 18:15:51 2022 [24016][1][FATAL] Email address save error
+Mon Jan 24 18:15:51 2022 [24016][1][FATAL] User update error: Temp User is not retrieved at ID seed_max_id, boolean given
+Mon Jan 24 18:15:51 2022 [24016][1][FATAL] Email address save error
+Mon Jan 24 18:15:51 2022 [24016][1][FATAL] User update error: Temp User is not retrieved at ID seed_will_id, boolean given
+Mon Jan 24 18:15:51 2022 [24016][1][FATAL] Email address save error
+Mon Jan 24 18:15:52 2022 [24016][1][FATAL] User update error: Temp User is not retrieved at ID seed_chris_id, boolean given
+Mon Jan 24 18:15:52 2022 [24016][1][FATAL] Email address save error
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Setting logger_file_name to ''.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Setting logger_file_ext to ''.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Log file extension can't be blank.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Log file extension can't be blank.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Setting logger_file_name to ''.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Setting logger_file_ext to ''.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Log file extension can't be blank.
+Mon Jan 24 18:18:08 2022 [24016][1][SECURITY] Log file extension can't be blank.
+Mon Jan 24 18:19:35 2022 [24016][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 24 18:19:40 2022 [24016][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 24 18:24:27 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Jan 24 18:24:27 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Jan 24 18:24:27 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Jan 24 18:24:46 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Mon Jan 24 18:24:46 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Mon Jan 24 18:26:36 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Jan 24 18:26:36 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Jan 24 18:26:36 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Jan 24 18:27:07 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Jan 24 18:27:07 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Jan 24 18:27:07 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Jan 24 18:27:46 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: someshbawaneuk@gmail.com : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y3sm12646936pge.60 - gsmtp
+,530,5.7.0
+Mon Jan 24 18:27:46 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: someshbawaneuk@gmail.com : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y3sm12646936pge.60 - gsmtp
+,530,5.7.0SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y3sm12646936pge.60 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.7.0
+Mon Jan 24 18:27:46 2022 [24016][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: someshbawaneuk@gmail.com : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y3sm12646936pge.60 - gsmtp
+,530,5.7.0SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y3sm12646936pge.60 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.7.0
+Mon Jan 24 18:29:39 2022 [24016][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Mon Jan 31 10:46:01 2022 [9508][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 10:46:04 2022 [9508][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 10:49:11 2022 [9508][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 10:49:23 2022 [9508][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 10:51:15 2022 [9508][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 10:55:08 2022 [9508][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:463 - styleChecked is not set
+Mon Jan 31 10:58:28 2022 [9508][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Mon Jan 31 10:58:28 2022 [9508][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Mon Jan 31 15:25:25 2022 [13480][-none-][FATAL] Could not connect to DB server localhost as root. port 3306: Access denied for user 'root'@'172.19.0.1' (using password: YES)
